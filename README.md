@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jony4)](https://github.com/anuraghazra/github-readme-stats)
-
--->
 
 - 🔭 I’m currently working on [wedo](https://github.com/wedo-workflow/wedo)
 - 🌱 I’m currently learning [rust](https://github.com/rust-lang/rust)
 - 📫 How to reach me: [twitter](https://twitter.com/jony4me) [gmail](mailto:jony4xx@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jony4)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
+
 
 [![Jony4's GitHub stats](https://github-readme-stats.vercel.app/api?username=jony4&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
