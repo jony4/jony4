@@ -1,2 +1,1 @@
-# blog
-jony4's blog.
+# jony4's blog.
