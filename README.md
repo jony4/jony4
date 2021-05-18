@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=jony4)
 
-[Click Here](https://github.com/jony4/blog) to Visit My Blog!
+**[Click Here](https://github.com/jony4/blog) to Visit My Blog!**
