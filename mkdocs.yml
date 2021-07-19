@@ -1,0 +1,33 @@
+site_name: Jony4's Blog
+site_url: https://jony4.github.io/blog
+repo_url: https://github.com/jony4/blog
+repo_name: jony4/blog
+copyright: Copyright &copy; 2021 -  Jony4
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: light blue
+  font: true
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  icon:
+    repo: fontawesome/brands/git-alt  
+extra:
+  homepage: https://jony4.github.io/blog
+  analytics:
+    provider: google
+    property: G-1ZX5F541CR
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/rigongyizu
+    - icon: fontawesome/brands/github
+      link: https://github.com/jony4
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<jony4xx@gmail.com>
+    
