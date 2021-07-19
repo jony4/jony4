@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jony4)](https://github.com/anuraghazra/github-readme-stats)
 
-**[Click Here](https://github.com/jony4/blog) to Visit My Blog!**
+**[Click Here](https://jony4.github.io/blog/) to Visit My Blog!**
 
 -->
 
 
 - 🔭 I’m currently working on [wedo](https://github.com/wedo-workflow)
 - 🌱 I’m currently learning [rust](https://github.com/rust-lang/rust)
-- 🤔 I'm currently writing [blog](https://github.com/jony4/blog)
+- 🤔 I'm currently writing [blog](https://jony4.github.io/blog/)
 - 📫 How to reach me: [gmail](mailto:jony4xx@gmail.com)
 
 
