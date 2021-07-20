@@ -13,13 +13,13 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.top
     - search.suggest
     - search.highlight
   icon:
     repo: fontawesome/brands/git-alt  
 extra:
   homepage: https://jony4.github.io/blog
+  disqus: jony4
   analytics:
     provider: google
     property: G-58V7GMZLS4
