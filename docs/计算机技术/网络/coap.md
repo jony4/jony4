@@ -1,4 +1,4 @@
-### Constrained Application Protocol
+# CoAP (Constrained Application Protocol)
 
 CoAP 是受限制的应用协议(Constrained Application Protocol)的缩写。在 IoT 物联网场景，为了让小设备可以接入互联网，CoAP 协议被设计出来。CoAP 是一种应用层协议，它运行于 UDP 协议之上而不是像 HTTP 那样运行于 TCP 之上。CoAP 协议非常小巧，最小的数据包仅为 4 字节。
 

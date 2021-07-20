@@ -1,8 +1,5 @@
----
-tags:
-  - insiders
-  - brand new
----
+# Gin
+
 # How to use [gin](https://github.com/codegangsta/gin) for code hot reload when dev.
 # 开发过程中如何用 [gin](https://github.com/codegangsta/gin) 来做代码热重启
 

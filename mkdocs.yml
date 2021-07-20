@@ -11,10 +11,11 @@ theme:
   font: true
   language: zh
   features:
+    - navigation.sections
+    # - navigation.tabs
+    - navigation.expand
+    # - navigation.indexes
     - navigation.instant
-    - navigation.tracking
-    - search.suggest
-    - search.highlight
   icon:
     repo: fontawesome/brands/git-alt  
 extra:
@@ -30,4 +31,7 @@ extra:
       link: https://github.com/jony4
     - icon: fontawesome/solid/paper-plane
       link: mailto:<jony4xx@gmail.com>
-    
+
+markdown_extensions:
+  - pymdownx.tasklist:
+      clickable_checkbox: true
