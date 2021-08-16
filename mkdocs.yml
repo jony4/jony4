@@ -20,7 +20,7 @@ theme:
     repo: fontawesome/brands/git-alt  
 extra:
   homepage: https://jony4.github.io/blog
-  disqus: jony4
+  # disqus: jony4
   analytics:
     provider: google
     property: G-XVWRQ8MT20
