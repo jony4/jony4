@@ -10,6 +10,7 @@ theme:
     accent: light blue
   font: true
   language: zh
+  custom_dir: overrides
   features:
     - navigation.sections
     # - navigation.tabs
@@ -20,7 +21,7 @@ theme:
     repo: fontawesome/brands/git-alt  
 extra:
   homepage: https://jony4.github.io/blog
-  # disqus: jony4
+  disqus: jony4
   analytics:
     provider: google
     property: G-XVWRQ8MT20
@@ -35,3 +36,8 @@ extra:
 markdown_extensions:
   - pymdownx.tasklist:
       clickable_checkbox: true
+extra_javascript:
+  - https://unpkg.com/gitalk/dist/gitalk.min.js
+  - javascripts/extra.js
+extra_css:
+  - https://unpkg.com/gitalk/dist/gitalk.css
