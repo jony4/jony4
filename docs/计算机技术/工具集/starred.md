@@ -1,4 +1,4 @@
-# Starred
+# Github Starred
 
 [Starred](https://github.com/jony4/starred) github repos.
 
