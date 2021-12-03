@@ -1,7 +1,7 @@
 site_name: Jony4's Blog
-site_url: https://jony4.github.io/blog
-repo_url: https://github.com/jony4/blog
-repo_name: jony4/blog
+site_url: https://jony4.pro
+repo_url: https://github.com/jony4/jony4
+repo_name: jony4/jony4
 copyright: Copyright &copy; 2021 -  Jony4
 theme:
   name: material
@@ -20,7 +20,7 @@ theme:
   icon:
     repo: fontawesome/brands/git-alt  
 extra:
-  homepage: https://jony4.github.io/blog
+  homepage: https://jony4.pro
   disqus: jony4
   analytics:
     provider: google
@@ -31,7 +31,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/jony4
     - icon: fontawesome/solid/paper-plane
-      link: mailto:<jony4xx@gmail.com>
+      link: mailto:<im@jony4.pro>
 
 markdown_extensions:
   - pymdownx.tasklist:
