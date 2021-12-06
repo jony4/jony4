@@ -6,13 +6,15 @@ copyright: Copyright &copy; 2021 -  Jony4
 theme:
   name: material
   palette:
-    primary: teal
+    primary: indigo
     accent: light blue
   font: true
   language: zh
   custom_dir: overrides
   features:
     - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
     - navigation.indexes
     - navigation.instant
   icon:
