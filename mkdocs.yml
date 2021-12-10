@@ -1,7 +1,41 @@
-site_name: Jony4
+site_name: Jony4's Profile Site
 site_url: https://jony4.pro
 repo_name: jony4/jony4
 copyright: Copyright &copy; 2021 - Now Jony4
+nav:
+  - 首页: 
+    - index.md
+  - 博文:
+    - 计算机:
+      - 计算机/WebAssembly/wasmer.md
+      - 计算机/中间件/mq.md
+      - 计算机/云原生/index.md
+      - 计算机/工具集/1.md
+      - 计算机/工具集/2.md
+      - 计算机/工具集/starred.md
+      - 计算机/理论/fsm.md
+      - 计算机/编程语言/rust/index.md
+      - 计算机/编程语言/rust/1.md
+      - 计算机/编程语言/rust/2.md
+      - 计算机/网络/coap.md
+      - 计算机/道与术/index.md
+      - 计算机/道与术/1.md
+    - 人工智能:
+      - 人工智能/index.md
+    - 职场:
+      - 职场/1.md
+  - 其他:
+    - 孩子:
+      - 孩子/寻寻的画/2021/7-22.md
+      - 孩子/寻寻的画/2021/8-13.md
+      - 孩子/寻寻的画/2021/8-25.md
+      - 孩子/寻寻的画/2021/8-28.md
+    - 见闻录:
+      - 见闻录/匪夷所思/1.md
+      - 见闻录/有趣的照片/1.md
+      - 见闻录/有趣的照片/2.md
+      - 见闻录/有趣的照片/3.md
+      - 见闻录/趋势/1.md
 theme:
   name: material
   palette:
@@ -16,7 +50,7 @@ theme:
     - navigation.indexes
     - navigation.instant
   icon:
-    repo: fontawesome/brands/git-alt  
+    logo: material/library    
 extra:
   homepage: https://jony4.pro
   analytics:
