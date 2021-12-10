@@ -7,6 +7,7 @@ nav:
     - index.md
   - 博文:
     - 计算机:
+      - computer/skills.md
       - 计算机/工具集/1.md
       - 计算机/工具集/2.md
       - 计算机/工具集/starred.md
