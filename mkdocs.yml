@@ -7,18 +7,13 @@ nav:
     - index.md
   - 博文:
     - 计算机:
-      - 计算机/WebAssembly/wasmer.md
-      - 计算机/中间件/mq.md
-      - 计算机/云原生/index.md
       - 计算机/工具集/1.md
       - 计算机/工具集/2.md
       - 计算机/工具集/starred.md
       - 计算机/理论/fsm.md
-      - 计算机/编程语言/rust/index.md
       - 计算机/编程语言/rust/1.md
-      - 计算机/编程语言/rust/2.md
       - 计算机/网络/coap.md
-      - 计算机/道与术/index.md
+      # - 计算机/道与术/index.md
       - 计算机/道与术/1.md
     - 人工智能:
       - 人工智能/index.md

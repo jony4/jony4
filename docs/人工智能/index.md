@@ -1,4 +1,4 @@
-# 全景
+# 人工智能全景图
 
 ![人工智能地图2019](https://user-images.githubusercontent.com/13718575/126480299-0b0d7580-4021-4d5c-a9fb-233884bc3346.jpeg)
 

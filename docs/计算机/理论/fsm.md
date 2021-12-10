@@ -34,11 +34,11 @@ Wiki -> [有限状态机](https://www.wikiwand.com/zh-hans/%E6%9C%89%E9%99%90%E7
   - 虚拟FSM (VFSM)
   - 基于自动机编程
 
-  ### 前端应用
-  - [David Khourshid: Simplifying Complex UIs with Finite Automata & Statecharts | JSConf Iceland 2018](https://www.youtube.com/watch?v=RqTxtOXcv8Y&ab_channel=JSConf) YouTube
-  - [David Khourshid - Infinitely Better UIs with Finite Automata](https://www.youtube.com/watch?v=VU1NKX6Qkxc&ab_channel=ReactRally) YouTube
+### 前端应用
+- [David Khourshid: Simplifying Complex UIs with Finite Automata & Statecharts | JSConf Iceland 2018](https://www.youtube.com/watch?v=RqTxtOXcv8Y&ab_channel=JSConf) YouTube
+- [David Khourshid - Infinitely Better UIs with Finite Automata](https://www.youtube.com/watch?v=VU1NKX6Qkxc&ab_channel=ReactRally) YouTube
 
-  ### 后端应用
-  - [BPMN](https://www.omg.org/spec/BPMN/2.0.2/)
-  - [Wedo](https://github.com/wedo-workflow/wedo)
-  - [基于有限状态机的工作流引擎的设计.pdf](http://www.shcas.net/jsjyup/pdf/2018/8/%E5%9F%BA%E4%BA%8E%E6%9C%89%E9%99%90%E7%8A%B6%E6%80%81%E6%9C%BA%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E%E7%9A%84%E8%AE%BE%E8%AE%A1.pdf) 
+### 后端应用
+- [BPMN](https://www.omg.org/spec/BPMN/2.0.2/)
+- [Wedo](https://github.com/wedo-workflow/wedo)
+- [基于有限状态机的工作流引擎的设计.pdf](http://www.shcas.net/jsjyup/pdf/2018/8/%E5%9F%BA%E4%BA%8E%E6%9C%89%E9%99%90%E7%8A%B6%E6%80%81%E6%9C%BA%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E%E7%9A%84%E8%AE%BE%E8%AE%A1.pdf) 
