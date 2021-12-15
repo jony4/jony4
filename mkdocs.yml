@@ -6,8 +6,10 @@ nav:
   - 首页: 
     - 关于本站:
       - index.md
-    - 个人项目:
-      - project_wedo.md
+    - 关于本人:
+      - 开源项目: about/opensource.md
+      - 职场: about/company.md  
+      - 学校: about/school.md
   - 博文:
     - 计算机:
       - computer/skills.md
