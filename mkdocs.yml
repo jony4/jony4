@@ -4,7 +4,10 @@ repo_name: jony4/jony4
 copyright: Copyright &copy; 2021 - Now Jony4
 nav:
   - 首页: 
-    - index.md
+    - 关于本站:
+      - index.md
+    - 个人项目:
+      - project_wedo.md
   - 博文:
     - 计算机:
       - computer/skills.md
@@ -14,8 +17,9 @@ nav:
       - 计算机/理论/fsm.md
       - 计算机/编程语言/rust/1.md
       - 计算机/网络/coap.md
-      # - 计算机/道与术/index.md
-      - 计算机/道与术/1.md
+      - 道与术:
+        - 计算机/道与术/index.md
+        - 计算机/道与术/1.md
     - 人工智能:
       - 人工智能/index.md
     - 职场:
