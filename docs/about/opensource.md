@@ -15,5 +15,6 @@
 - [GRPC](https://github.com/grpc/grpc-go) issue 报告
 - [Buf](https://github.com/bufbuild/buf) issue 报告
 - [Dapr Components](https://github.com/dapr/components-contrib) 提交代码
-- 未完待续
+- [Goland](https://youtrack.jetbrains.com/issue/GO-12060) issue 报告
+- to be continued
 
