@@ -1,5 +1,5 @@
 site_name: Jony4's Profile Site
-site_url: https://jony4.pro
+site_url: https://jony4.me
 repo_name: jony4/jony4
 copyright: Copyright &copy; 2021 - Now Jony4
 nav:
@@ -55,7 +55,7 @@ theme:
   icon:
     logo: material/library    
 extra:
-  homepage: https://jony4.pro
+  homepage: https://jony4.me
   analytics:
     provider: google
     property: G-XVWRQ8MT20
@@ -65,7 +65,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/jony4
     - icon: fontawesome/solid/paper-plane
-      link: mailto:<im@jony4.pro>
+      link: mailto:<im@jony4.me>
 
 markdown_extensions:
   - pymdownx.tasklist:
