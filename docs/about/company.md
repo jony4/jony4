@@ -1,4 +1,4 @@
 #  公司
 
 
-更详细的简历 [->](mailto:<im@jony4.me>)
+更详细的简历请发邮件 [im@jony4.me](mailto:<im@jony4.me>)
