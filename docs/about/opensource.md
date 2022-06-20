@@ -16,5 +16,6 @@
 - [Buf](https://github.com/bufbuild/buf) issue 报告
 - [Dapr Components](https://github.com/dapr/components-contrib) 提交代码
 - [Goland](https://youtrack.jetbrains.com/issue/GO-12060) issue 报告
+- [Ent/Ent](https://github.com/ent/ent/issues/2561) Bug 提交
 - to be continued
 
